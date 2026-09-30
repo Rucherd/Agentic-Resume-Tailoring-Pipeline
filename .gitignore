@@ -12,8 +12,8 @@ __pycache__/
 !/resume_data.example.json
 /master_resume*.tex
 
-# Documentation containing personal resume details
-/README.md
+# Private documentation; README.md is the public project overview
+/README.private.md
 
 # Application history, generated resumes, and model caches
 /jobs/
