@@ -1,0 +1,93 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "email": "you@example.com",
+    "phone": "555-555-5555",
+    "location": "Toronto, ON",
+    "linkedin": "https://www.linkedin.com/in/yourname",
+    "github": "https://github.com/yourname",
+    "website": ""
+  },
+  "education": [
+    {
+      "id": "edu1",
+      "institution": "University Name",
+      "degree": "Master of Engineering in Electrical and Computer Engineering",
+      "location": "Waterloo, ON",
+      "start": "Sep. 2026",
+      "end": "Present",
+      "details": []
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "company": "Example Company",
+      "title": "Software Engineer Intern",
+      "location": "Toronto, ON",
+      "start": "May 2026",
+      "end": "Aug. 2026",
+      "bullets": [
+        {
+          "id": "exp1.b1",
+          "text": "Replace this with a truthful master-resume bullet containing your strongest technical detail.",
+          "skills": [
+            "Python"
+          ],
+          "tags": [
+            "software",
+            "backend"
+          ],
+          "variants": {
+            "software": "Optional pre-approved alternate wording that states exactly the same facts."
+          }
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj1",
+      "name": "Example Project",
+      "subtitle": "C++ | CUDA",
+      "date": "2026",
+      "skills": [
+        "C++",
+        "CUDA"
+      ],
+      "bullets": [
+        {
+          "id": "proj1.b1",
+          "text": "Replace this with a truthful project bullet from your expanded master resume.",
+          "skills": [
+            "C++",
+            "CUDA"
+          ],
+          "tags": [
+            "gpu",
+            "performance"
+          ],
+          "variants": {}
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        "C",
+        "C++",
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Git",
+        "Linux"
+      ]
+    }
+  ]
+}

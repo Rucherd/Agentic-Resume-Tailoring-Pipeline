@@ -1,0 +1,55 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Personal master resume, generated data, and versioned backups
+/resume_data*.json
+!/resume_data.example.json
+/master_resume*.tex
+
+# Documentation containing personal resume details
+/README.md
+
+# Application history, generated resumes, and model caches
+/jobs/
+/jobsarchive/
+output/
+cache/
+
+# Resume documents and archives
+*.pdf
+*.doc
+*.docx
+*.zip
+
+# LaTeX build files (keep template.tex)
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+.vscode/
+.idea/
+.codex/
+.agents/
+
+# Editor backups and operating-system metadata
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
